@@ -1,21 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="836" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1444" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rU_0oJ3ShRVZ9Ei-454_-3" value="メイン基板" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="180" width="270" height="280" as="geometry">
-            <mxRectangle x="380" y="180" width="100" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rU_0oJ3ShRVZ9Ei-454_-4" value="電源基板" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="220" width="270" height="200" as="geometry">
-            <mxRectangle x="380" y="180" width="100" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rU_0oJ3ShRVZ9Ei-454_-5" value="正面基板" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="180" width="260" height="280" as="geometry">
+          <mxGeometry x="10" y="190" width="260" height="280" as="geometry">
             <mxRectangle x="380" y="180" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -51,6 +41,31 @@
         </mxCell>
         <mxCell id="rU_0oJ3ShRVZ9Ei-454_-29" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=-180;" vertex="1" parent="rU_0oJ3ShRVZ9Ei-454_-5">
           <mxGeometry x="119" y="135" width="65" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="rU_0oJ3ShRVZ9Ei-454_-4" value="電源基板" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="180" width="270" height="140" as="geometry">
+            <mxRectangle x="380" y="180" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rU_0oJ3ShRVZ9Ei-454_-31" value="ライン基板" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="480" width="430" height="180" as="geometry">
+            <mxRectangle x="380" y="180" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rU_0oJ3ShRVZ9Ei-454_-32" value="ターミナル基板" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="240" height="290" as="geometry">
+            <mxRectangle x="380" y="180" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rU_0oJ3ShRVZ9Ei-454_-33" value="UI基板" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="30" width="270" height="140" as="geometry">
+            <mxRectangle x="380" y="180" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rU_0oJ3ShRVZ9Ei-454_-3" value="メイン基板" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="330" width="300" height="330" as="geometry">
+            <mxRectangle x="380" y="180" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
