@@ -15,9 +15,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rU_0oJ3ShRVZ9Ei-454_-5" value="正面基板" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="180" width="270" height="200" as="geometry">
+          <mxGeometry x="10" y="180" width="270" height="260" as="geometry">
             <mxRectangle x="380" y="180" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rU_0oJ3ShRVZ9Ei-454_-6" value="XIAO RP2040" style="swimlane;" vertex="1" parent="rU_0oJ3ShRVZ9Ei-454_-5">
+          <mxGeometry x="140" y="40" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rU_0oJ3ShRVZ9Ei-454_-8" value="VL53L0X" style="swimlane;" vertex="1" parent="rU_0oJ3ShRVZ9Ei-454_-5">
+          <mxGeometry x="10" y="70" width="110" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
