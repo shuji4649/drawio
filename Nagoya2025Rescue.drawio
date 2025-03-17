@@ -7,7 +7,7 @@
         <mxCell id="77e6c97f196da883-1" value="レスキュー" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="70" y="40" width="960" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-2" value="レスキュー開始" style="swimlane;html=1;startSize=20;fillColor=#F3F3F3;swimlaneFillColor=#F3F3F3;strokeColor=none;" parent="77e6c97f196da883-1" vertex="1">
+        <mxCell id="77e6c97f196da883-2" value="レスキュー開始" style="swimlane;html=1;startSize=20;fillColor=#F3F3F3;swimlaneFillColor=#E6E6E6;strokeColor=none;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="20" width="160" height="600" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-8" value="銀テープを検知&lt;div&gt;レスキュー開始&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
@@ -59,7 +59,7 @@
         <mxCell id="B2lhPkykwKd8bdaqU0oP-14" value="ランダムウォーク" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="30" y="400" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-4" value="被災者救助" style="swimlane;html=1;startSize=20;fillColor=#F3F3F3;strokeColor=none;swimlaneFillColor=#F3F3F3;" parent="77e6c97f196da883-1" vertex="1">
+        <mxCell id="77e6c97f196da883-4" value="被災者救助" style="swimlane;html=1;startSize=20;fillColor=#F3F3F3;strokeColor=none;swimlaneFillColor=#E6E6E6;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="320" y="20" width="160" height="600" as="geometry" />
         </mxCell>
         <mxCell id="B2lhPkykwKd8bdaqU0oP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-4" source="B2lhPkykwKd8bdaqU0oP-8" target="B2lhPkykwKd8bdaqU0oP-12">
@@ -159,7 +159,7 @@
         <mxCell id="B2lhPkykwKd8bdaqU0oP-25" value="ランダムウォーク" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-5">
           <mxGeometry x="30" y="400" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-6" value="被災者放出" style="swimlane;html=1;startSize=20;fillColor=#F3F3F3;strokeColor=none;swimlaneFillColor=#F3F3F3;" parent="77e6c97f196da883-1" vertex="1">
+        <mxCell id="77e6c97f196da883-6" value="被災者放出" style="swimlane;html=1;startSize=20;fillColor=#F3F3F3;strokeColor=none;swimlaneFillColor=#E6E6E6;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="640" y="20" width="160" height="600" as="geometry" />
         </mxCell>
         <mxCell id="B2lhPkykwKd8bdaqU0oP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-6" source="B2lhPkykwKd8bdaqU0oP-31" target="B2lhPkykwKd8bdaqU0oP-32">
